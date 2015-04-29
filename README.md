@@ -1,8 +1,9 @@
 ### Existing Actions
 
+- `resource generate`
+
 ### Future Actions
 
-- `resource generate`
 - `resource add term`
 - `resource remove term`
 - `resource new bucket-name`
